@@ -142,3 +142,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+/* --- Participants section --- */
+.participants-block {
+  margin-top: 12px;
+  background: #eef3ff;
+  border: 1px solid #c5cae9;
+  border-radius: 4px;
+  padding: 8px 10px;
+}
+
+.participants-list {
+  margin: 6px 0 0 18px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.participants-empty {
+  margin: 6px 0 0;
+  font-size: 0.9rem;
+  color: #555;
+  font-style: italic;
+}
